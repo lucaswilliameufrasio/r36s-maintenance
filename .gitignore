@@ -1,0 +1,21 @@
+# Jogos (grandes e com direitos autorais)
+roms-backup/
+backups/
+
+# Imagens de sistema e downloads (baixe da release oficial)
+darkos-official/
+*.img
+*.img.gz
+*.img.7z*
+
+# Binários de terceiros copiados do cartão (DTBs do pacote de painéis)
+panel4-60hz-dtbs/
+*.dtb
+*.dtb.orig
+
+# Lixo do macOS / Spotlight
+.DS_Store
+._*
+.fseventsd/
+.Spotlight-V100/
+.Trashes/
